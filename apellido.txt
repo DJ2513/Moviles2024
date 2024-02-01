@@ -1,4 +1,3 @@
 apellidos:
 Jimenez
-Prado
 Omar
