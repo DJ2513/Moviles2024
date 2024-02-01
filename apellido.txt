@@ -1,1 +1,4 @@
-apellidos: Jimenez y Prado
+apellidos:
+Jimenez
+Prado
+Omar
